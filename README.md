@@ -1,1 +1,2 @@
 # 2025Principles-of-Artificial-Intelligence-Course
+2025春季学期人工智能原理课程编程以及项目作业。所有作业评分均为100分。
