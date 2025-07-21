@@ -1,0 +1,9 @@
+python main.py \
+  --data_dir ./garbage-dataset \
+  --model_type basic \
+  --epochs 200 \
+  --batch_size 32 \
+  --learning_rate 0.01 \
+  --weight_decay 0.001 \
+  --optimizer sgd \
+  --save_dir ./garbage-classification-basic-random \
